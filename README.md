@@ -4,7 +4,7 @@
 ### 1. Clone project
 > Make sure you have already installed python3 and git.
 ```
-$ git clone https://github.com/superior-prog/CSE347-Project.git
+https://github.com/Sumona062/JOBLAND.gitgit
 ```
 
 ### 2. Create an virtual environment
