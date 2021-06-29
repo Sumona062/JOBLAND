@@ -4,7 +4,7 @@
 ### 1. Clone project
 > Make sure you have already installed python3 and git.
 ```
-https://github.com/Sumona062/JOBLAND.gitgit
+https://github.com/Sumona062/JOBLAND.git
 ```
 
 ### 2. Create an virtual environment
