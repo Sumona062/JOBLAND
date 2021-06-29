@@ -9,7 +9,7 @@ https://github.com/Sumona062/JOBLAND.git
 
 ### 2. Create an virtual environment
 ```
-$ py -m venv ENV
+$ python -m venv ENV
 ```
 ### 3. Start the environment
 ```
@@ -31,5 +31,5 @@ $ pip install xhtml2pdf
 ```
 ### 6. And start your server
 ```
-$ py manage.py runserver
+$ python manage.py runserver
 ```
