@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'django_filters',
     'widget_tweaks',
+    'pillow',
 
     'django.contrib.admin',
     'django.contrib.auth',

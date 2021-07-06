@@ -40,6 +40,7 @@ def home(request):
 def login_page(request):
     if request.POST:
         form = LoginForm(request.POST)
+        print(request.POST['email'])
         if form.is_valid():
             email = request.POST['email']
             password = request.POST['password']
